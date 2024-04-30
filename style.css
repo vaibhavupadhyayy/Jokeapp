@@ -9,7 +9,12 @@
     src: url("font/sans.ttf");
     font-family: "sans";
   }
-  
+
+
+#zsiqfaqpreview .link {
+    display: inline-block !important;
+    text-align: inherit !important;
+}
 
 body {
     background-color: #19172e;
